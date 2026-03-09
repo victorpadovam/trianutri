@@ -1,0 +1,30 @@
+<variant
+    name="debug"
+    package="io.flutter.plugins.sharedpreferences"
+    minSdkVersion="21"
+    targetSdkVersion="21"
+    debuggable="true"
+    mergedManifest="/Users/victorpadovam/Downloads/trianutri-main/build/shared_preferences_android/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml"
+    partialResultsDir="/Users/victorpadovam/Downloads/trianutri-main/build/shared_preferences_android/intermediates/android_test_lint_partial_results/debug/lintAnalyzeDebugAndroidTest/out"
+    desugaredMethodsFiles="/Users/victorpadovam/.gradle/caches/8.14.2/transforms/98b2a847ad203a9489f60c9ceb8f15be/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+  </sourceProviders>
+  <testSourceProviders>
+    <sourceProvider
+        manifests="src/androidTest/AndroidManifest.xml"
+        javaDirectories="src/androidTest/java:src/androidTestDebug/java:src/androidTest/kotlin:src/androidTestDebug/kotlin"
+        resDirectories="src/androidTest/res:src/androidTestDebug/res"
+        assetsDirectories="src/androidTest/assets:src/androidTestDebug/assets"
+        androidTest="true"/>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      type="INSTRUMENTATION_TEST"
+      applicationId="io.flutter.plugins.sharedpreferences.test"
+      generatedResourceFolders="/Users/victorpadovam/Downloads/trianutri-main/build/shared_preferences_android/generated/res/resValues/androidTest/debug"
+      desugaredMethodsFiles="/Users/victorpadovam/.gradle/caches/8.14.2/transforms/98b2a847ad203a9489f60c9ceb8f15be/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

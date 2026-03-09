@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.trianutri.br.app-mergeProfileResources-39:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/victorpadovam/.gradle/caches/8.14.2/transforms/e5d16be6b0f290f85a433f61fe86e0a7/transformed/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/victorpadovam/.gradle/daemon/8.14.2/com.trianutri.br.app-mergeProfileResources-39:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/victorpadovam/.gradle/caches/8.14.2/transforms/e5d16be6b0f290f85a433f61fe86e0a7/transformed/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

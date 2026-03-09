@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2026-03-09T19:41:21.359Z" hostname="MacBook-Pro-de-Victir.local" time="18.698">
+  <properties/>
+  <testcase name="testSharedPreferencesWithMultipleFiles" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="14.666"/>
+  <testcase name="testSetAndGetStringListWithSharedPreferencesRedirectsForPlatformEncoded" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.349"/>
+  <testcase name="testSetAndGetStringWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.727"/>
+  <testcase name="testSharedPreferencesDefaultFile" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.061"/>
+  <testcase name="testClearWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.181"/>
+  <testcase name="testGetKeysWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.11"/>
+  <testcase name="testSetAndGetIntWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.108"/>
+  <testcase name="testSetAndGetDoubleWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.114"/>
+  <testcase name="testGetAllWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.216"/>
+  <testcase name="testGetAllWithAllowListWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.284"/>
+  <testcase name="testSetAndGetStringListWithDataStoreReportsRawString" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.257"/>
+  <testcase name="testClearWithAllowListWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.112"/>
+  <testcase name="testSetAndGetBoolWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.098"/>
+  <testcase name="testSetAndGetStringListWithSharedPreferencesReportsRawString" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.158"/>
+  <testcase name="testSetAndGetBoolWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.076"/>
+  <testcase name="testGetAllWithAllowListWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.169"/>
+  <testcase name="testGetKeysWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.081"/>
+  <testcase name="testSetAndGetStringWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.088"/>
+  <testcase name="testSetAndGetDoubleWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.067"/>
+  <testcase name="testSetAndGetIntWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.092"/>
+  <testcase name="testSetAndGetStringListWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.127"/>
+  <testcase name="testClearWithSharedPreferences" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.107"/>
+  <testcase name="testClearWithAllowListWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.107"/>
+  <testcase name="testSetAndGetStringListWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.077"/>
+  <testcase name="testGetAllWithDataStore" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.143"/>
+  <testcase name="testUnexpectedClassDecodeThrows" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.062"/>
+  <testcase name="testSetAndGetStringListWithDataStoreRedirectsForPlatformEncoded" classname="io.flutter.plugins.sharedpreferences.SharedPreferencesTest" time="0.058"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
