@@ -47,3 +47,9 @@ build/web/
 
 # Logs
 *.log
+
+build/
+android/gradle.zip
+*.apk
+*.aab
+*.zip
